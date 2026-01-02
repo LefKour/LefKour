@@ -1,4 +1,4 @@
-# Hi there, I'm Eleftherios 👋
+# Hi, I'm Eleftherios 👋
 
 ## Full-Stack Software Engineer | Graphics Programming | Computational Design
 
